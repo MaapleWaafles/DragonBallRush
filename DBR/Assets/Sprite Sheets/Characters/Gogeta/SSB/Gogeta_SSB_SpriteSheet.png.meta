@@ -1,0 +1,6788 @@
+fileFormatVersion: 2
+guid: 2d92dee0018035545a562aee60f43c13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3430295457590549777
+    second: SuperThree1
+  - first:
+      213: -7992474953811010539
+    second: Gogeta_SSB_SpriteSheet_1
+  - first:
+      213: -5563146580289377514
+    second: SuperThree1
+  - first:
+      213: 7987640112341401838
+    second: SuperThree2
+  - first:
+      213: -2127507684065005575
+    second: SuperThree3
+  - first:
+      213: 6034687124508566238
+    second: Gogeta_SSB_SpriteSheet_5
+  - first:
+      213: 7035418310946604861
+    second: Gogeta_SSB_SpriteSheet_6
+  - first:
+      213: -2974838585216577595
+    second: Gogeta_SSB_SpriteSheet_7
+  - first:
+      213: 2979270321350408469
+    second: IconSelect
+  - first:
+      213: -4526658095233987431
+    second: Intro2
+  - first:
+      213: -6286677721825264052
+    second: Intro3
+  - first:
+      213: 2100276627540366897
+    second: Intro5
+  - first:
+      213: -4617493710214545947
+    second: Intro6
+  - first:
+      213: -4266702245694317163
+    second: Gogeta_SSB_SpriteSheet_13
+  - first:
+      213: 1314419590685097659
+    second: Gogeta_SSB_SpriteSheet_14
+  - first:
+      213: -7834968009004829828
+    second: Intro8
+  - first:
+      213: -8739310537023062196
+    second: Gogeta_SSB_SpriteSheet_16
+  - first:
+      213: 1450564389751330012
+    second: Gogeta_SSB_SpriteSheet_17
+  - first:
+      213: 789203182757746933
+    second: Gogeta_SSB_Idle_1
+  - first:
+      213: -6752288663364739557
+    second: Gogeta_SSB_Idle_2
+  - first:
+      213: -7098387845966198814
+    second: Gogeta_SSB_Idle_3
+  - first:
+      213: 3312239539173505862
+    second: Intro1
+  - first:
+      213: -6810359086270887383
+    second: Gogeta_SSB_SpriteSheet_22
+  - first:
+      213: 495316719654648984
+    second: Gogeta_SSB_SpriteSheet_23
+  - first:
+      213: 6625736861110983196
+    second: Gogeta_SSB_SpriteSheet_24
+  - first:
+      213: 8287961256704996193
+    second: Gogeta_SSB_SpriteSheet_25
+  - first:
+      213: -1265537901202064213
+    second: Gogeta_SSB_SpriteSheet_26
+  - first:
+      213: 6174849565973275864
+    second: Gogeta_SSB_SpriteSheet_27
+  - first:
+      213: -3681409367110125039
+    second: Gogeta_SSB_SpriteSheet_28
+  - first:
+      213: 4959879389671000272
+    second: Gogeta_SSB_SpriteSheet_29
+  - first:
+      213: 7382423249980219206
+    second: Gogeta_SSB_SpriteSheet_30
+  - first:
+      213: 1906339343517267687
+    second: Gogeta_SSB_SpriteSheet_31
+  - first:
+      213: 4963072182113445266
+    second: Gogeta_SSB_SpriteSheet_32
+  - first:
+      213: -5280300512329516155
+    second: Gogeta_SSB_SpriteSheet_33
+  - first:
+      213: -5430615873876086216
+    second: Gogeta_SSB_SpriteSheet_34
+  - first:
+      213: 7087697384694877556
+    second: Substitute1
+  - first:
+      213: 2746709642521403901
+    second: Substitute2
+  - first:
+      213: 2653902099341844301
+    second: Substitute3
+  - first:
+      213: 7799557657670566852
+    second: Gogeta_SSB_SpriteSheet_38
+  - first:
+      213: 4588914717061022367
+    second: Gogeta_SSB_SpriteSheet_39
+  - first:
+      213: -3319174604911350211
+    second: Substitute4
+  - first:
+      213: 3865919214711733745
+    second: Gogeta_SSB_SpriteSheet_41
+  - first:
+      213: 4928816594819258689
+    second: Gogeta_SSB_RunBack_1
+  - first:
+      213: -4375468519462488806
+    second: Gogeta_SSB_RunBack_2
+  - first:
+      213: 7459484778143184224
+    second: Gogeta_SSB_RunFront_1
+  - first:
+      213: 3055257584696465736
+    second: Gogeta_SSB_RunFront_2
+  - first:
+      213: -2206347154714571721
+    second: RunFront2
+  - first:
+      213: 65304051962787778
+    second: Gogeta_SSB_Jump_1
+  - first:
+      213: 8618598381427639033
+    second: Gogeta_SSB_Jump_2
+  - first:
+      213: -5370065724638338254
+    second: Gogeta_SSB_Jump_3
+  - first:
+      213: -5506552825333431932
+    second: Gogeta_SSB_Jump_4
+  - first:
+      213: -2957159492630881671
+    second: Gogeta_SSB_Jump_5
+  - first:
+      213: 7847072803327401755
+    second: Gogeta_SSB_Jump_6
+  - first:
+      213: -9213597934204106304
+    second: Jump6
+  - first:
+      213: 7107201669603731978
+    second: Light1
+  - first:
+      213: -4885750167893679875
+    second: Gogeta_SSB_RunFront_Dash
+  - first:
+      213: -3470073728818941416
+    second: Gogeta_SSB_RunBack_Dash
+  - first:
+      213: 1542541132093890147
+    second: BackDash
+  - first:
+      213: -6690746170338148942
+    second: Gogeta_SSB_SpriteSheet_58
+  - first:
+      213: 79030230271317267
+    second: Gogeta_SSB_RunBack_Smoke
+  - first:
+      213: -7135597935922210575
+    second: Gogeta_SSB_RunFront_Smoke
+  - first:
+      213: 7382110657594676652
+    second: Gogeta_SSB_SpriteSheet_61
+  - first:
+      213: 4146814872535118871
+    second: Gogeta_SSB_SpriteSheet_62
+  - first:
+      213: -8217581568562542372
+    second: Gogeta_SSB_SpriteSheet_63
+  - first:
+      213: -6207600071952031469
+    second: Light2
+  - first:
+      213: 6120838225618510130
+    second: Light3
+  - first:
+      213: -1589885152887852728
+    second: Light12
+  - first:
+      213: -4710121238708278087
+    second: Light12
+  - first:
+      213: -3326925432758105145
+    second: Light12
+  - first:
+      213: 6252467563208083222
+    second: Light12
+  - first:
+      213: 6795541334570979978
+    second: Light12
+  - first:
+      213: -7812760909252023649
+    second: Light12
+  - first:
+      213: 1426616103284758652
+    second: Light12
+  - first:
+      213: 5265722163112666557
+    second: Light12
+  - first:
+      213: -7698078830117932085
+    second: Light12
+  - first:
+      213: 2227408989248560619
+    second: Heavy1
+  - first:
+      213: 1600801424268494707
+    second: Heavy2
+  - first:
+      213: -2719093189852006852
+    second: Heavy3
+  - first:
+      213: -1274501530259066397
+    second: Heavy4
+  - first:
+      213: -3295763273165761793
+    second: Heavy5
+  - first:
+      213: -9052982253108106426
+    second: Heavy6
+  - first:
+      213: -6835523507866287650
+    second: Heavy7
+  - first:
+      213: 7721148088557207417
+    second: Heavy8
+  - first:
+      213: 7226961346851384987
+    second: Heavy9
+  - first:
+      213: 8132605105552563050
+    second: Heavy10
+  - first:
+      213: 4728901117683363635
+    second: Heavy11
+  - first:
+      213: -4627407603579357769
+    second: Heavy12
+  - first:
+      213: -6022920310497639315
+    second: GrabBlast1
+  - first:
+      213: -7298153446247993986
+    second: Gogeta_SSB_SpriteSheet_88
+  - first:
+      213: -8182351865957261863
+    second: AirGuard
+  - first:
+      213: -4940314510465221098
+    second: Grab1
+  - first:
+      213: -3342664161739672024
+    second: Grab2
+  - first:
+      213: 2184973912459570023
+    second: Grab3
+  - first:
+      213: 1690796354979083934
+    second: Grab4
+  - first:
+      213: -1529577371816410613
+    second: Grab5
+  - first:
+      213: 7238178429394549671
+    second: Grab6
+  - first:
+      213: -7667361948405895632
+    second: Grab7
+  - first:
+      213: -5188418968342716599
+    second: Grab8
+  - first:
+      213: -1824278112293803154
+    second: Grab9
+  - first:
+      213: -6389312143509843737
+    second: GrabBlast2
+  - first:
+      213: -7928604633888598461
+    second: Gogeta_SSB_SpriteSheet_100
+  - first:
+      213: 6700232752278242719
+    second: Damage1
+  - first:
+      213: 7519587697475584117
+    second: Damage2
+  - first:
+      213: -4820080111403210871
+    second: Damage3
+  - first:
+      213: 8019391271935921053
+    second: Damage4
+  - first:
+      213: 2693654084267592054
+    second: Gogeta_SSB_SpriteSheet_105
+  - first:
+      213: 2767366138008979202
+    second: Guard1
+  - first:
+      213: 3802085151138641107
+    second: Guard2
+  - first:
+      213: -3683997453453699218
+    second: Gogeta_SSB_SpriteSheet_108
+  - first:
+      213: 1495442897472078384
+    second: CrouchGuard
+  - first:
+      213: 1288501557288265945
+    second: Gogeta_SSB_SpriteSheet_110
+  - first:
+      213: -3555503615294164317
+    second: Gogeta_SSB_SpriteSheet_111
+  - first:
+      213: 5299601977974221298
+    second: Gogeta_SSB_SpriteSheet_112
+  - first:
+      213: -9155877431606352603
+    second: Gogeta_SSB_SpriteSheet_113
+  - first:
+      213: 5229598654027573651
+    second: Gogeta_SSB_SpriteSheet_114
+  - first:
+      213: 7790861157223964088
+    second: KiCharge3
+  - first:
+      213: -565269371062555410
+    second: Gogeta_SSB_SpriteSheet_116
+  - first:
+      213: 5518223292788809178
+    second: Gogeta_SSB_SpriteSheet_117
+  - first:
+      213: 5782686875204534641
+    second: KiCharge4
+  - first:
+      213: 8555780485254826328
+    second: Gogeta_SSB_SpriteSheet_119
+  - first:
+      213: -2694619799263789331
+    second: Gogeta_SSB_SpriteSheet_120
+  - first:
+      213: -4087955488382669453
+    second: Gogeta_SSB_SpriteSheet_121
+  - first:
+      213: 4952606156428090826
+    second: Gogeta_SSB_SpriteSheet_122
+  - first:
+      213: 4896500836028844656
+    second: Gogeta_SSB_SpriteSheet_123
+  - first:
+      213: -2426823256785488692
+    second: Gogeta_SSB_SpriteSheet_124
+  - first:
+      213: -1766414140478788410
+    second: KiCharge1
+  - first:
+      213: 8690720746027580738
+    second: KiCharge2
+  - first:
+      213: 5037136490306875815
+    second: Gogeta_SSB_SpriteSheet_127
+  - first:
+      213: -307167480306476062
+    second: Gogeta_SSB_SpriteSheet_128
+  - first:
+      213: 5615741290396210623
+    second: KiCharge5
+  - first:
+      213: 3930661391095398967
+    second: Gogeta_SSB_SpriteSheet_130
+  - first:
+      213: 4169925734602266061
+    second: Gogeta_SSB_SpriteSheet_131
+  - first:
+      213: -5811517103280234007
+    second: KiBlast1
+  - first:
+      213: -4282945688633018280
+    second: KiBlast2
+  - first:
+      213: -2795240765164074440
+    second: KiBlast3
+  - first:
+      213: -3705244916246213074
+    second: KiBlast4
+  - first:
+      213: 5250825983357115885
+    second: KiBlast5
+  - first:
+      213: -1197176803351795952
+    second: KiBlast6
+  - first:
+      213: 5729555753157019133
+    second: KiBlast7
+  - first:
+      213: 7194998089105507966
+    second: Blast1
+  - first:
+      213: -821466901986097631
+    second: Blast2
+  - first:
+      213: 1960395308149262893
+    second: Gogeta_SSB_SpriteSheet_141
+  - first:
+      213: 3034961432231492297
+    second: Gogeta_SSB_SpriteSheet_142
+  - first:
+      213: 7520980547634303676
+    second: SuperOne2
+  - first:
+      213: -2164587777209621052
+    second: SuperOne3
+  - first:
+      213: 2163913286673621151
+    second: SuperOne4
+  - first:
+      213: 2995750906870793159
+    second: SuperOne5
+  - first:
+      213: 7140660894087521771
+    second: SuperOne6
+  - first:
+      213: -4812341246399377188
+    second: SuperOne7
+  - first:
+      213: -7863443315972979315
+    second: Gogeta_SSB_SpriteSheet_149
+  - first:
+      213: 3212732260616381788
+    second: SuperOne12
+  - first:
+      213: -8945875645704559627
+    second: SuperOne13
+  - first:
+      213: -3840668944056226875
+    second: SuperOne14
+  - first:
+      213: -7106029219495215093
+    second: SuperOne1
+  - first:
+      213: -6377284882493518109
+    second: SuperOne8
+  - first:
+      213: 5842765095464613360
+    second: SuperOne9
+  - first:
+      213: -6137921209016431182
+    second: SuperOne10
+  - first:
+      213: -463959381432515384
+    second: SuperOne11
+  - first:
+      213: -5850636484025596375
+    second: SuperTwo1
+  - first:
+      213: 2264374489096019907
+    second: SuperTwo2
+  - first:
+      213: -7779489476474550640
+    second: SuperTwo3
+  - first:
+      213: 1602529414540535611
+    second: SuperTwo4
+  - first:
+      213: -7286867160071446367
+    second: SuperTwo5
+  - first:
+      213: 1948540577261838112
+    second: SuperTwo6
+  - first:
+      213: 5850290636120259062
+    second: SuperTwo7
+  - first:
+      213: -5470002967016798222
+    second: SuperTwo8
+  - first:
+      213: 7112434389344645196
+    second: SuperTwo9
+  - first:
+      213: 4889272139686960249
+    second: SuperTwo10
+  - first:
+      213: 6864906123064505441
+    second: SuperTwo11
+  - first:
+      213: -1790761037131778277
+    second: SuperTwo12
+  - first:
+      213: -1017149623914482990
+    second: Gogeta_SSB_SpriteSheet_170
+  - first:
+      213: -6834481378911688545
+    second: SuperTwo13
+  - first:
+      213: -7237700612847017821
+    second: SuperTwo14
+  - first:
+      213: 2130425750853324867
+    second: SuperTwo15
+  - first:
+      213: 7226376095505123704
+    second: SuperTwo16
+  - first:
+      213: 6196397799158456569
+    second: Gogeta_SSB_SpriteSheet_175
+  - first:
+      213: 1317336757368893127
+    second: SuperTwo17
+  - first:
+      213: -5356191853635332878
+    second: Gogeta_SSB_SpriteSheet_177
+  - first:
+      213: -3904279194755981415
+    second: SuperTwo18
+  - first:
+      213: -3788696695528933375
+    second: SuperTwo19
+  - first:
+      213: -9002973656069767326
+    second: Gogeta_SSB_SpriteSheet_180
+  - first:
+      213: 671538106178171903
+    second: SuperTwo20
+  - first:
+      213: -7441363156940348958
+    second: SuperTwo21
+  - first:
+      213: 1159760396338728502
+    second: SuperTwo22
+  - first:
+      213: -3588648987317062609
+    second: SuperTwoBlast5
+  - first:
+      213: -8690164555014617964
+    second: SuperTwo23
+  - first:
+      213: -2473386758642385644
+    second: SuperTwo24
+  - first:
+      213: 500896493673160272
+    second: SuperTwo25
+  - first:
+      213: -9090502226143935647
+    second: SuperTwoBlast6
+  - first:
+      213: 6921079554566458284
+    second: Gogeta_SSB_SpriteSheet_189
+  - first:
+      213: -3316586372026832839
+    second: SuperTwoBlast1
+  - first:
+      213: 5413126403636294785
+    second: SuperTwoBlast2
+  - first:
+      213: -9036753031696246329
+    second: SuperTwoBlast3
+  - first:
+      213: 5717274098040537151
+    second: SuperTwoBlast4
+  - first:
+      213: -7292293124956659997
+    second: SuperTwoBlast7
+  - first:
+      213: -3447902756751631418
+    second: SuperTwoBlast8
+  - first:
+      213: -1135158239927987008
+    second: SuperTwoBlast9
+  - first:
+      213: 1593887691762383549
+    second: SuperTwoBlast10
+  - first:
+      213: 5037575869267113497
+    second: Gogeta_SSB_SpriteSheet_198
+  - first:
+      213: 71980861319092689
+    second: Gogeta_SSB_SpriteSheet_199
+  - first:
+      213: -5063085858579604414
+    second: Gogeta_SSB_SpriteSheet_200
+  - first:
+      213: -3338722379498384306
+    second: SuperTwoThree1
+  - first:
+      213: 1116955820998639949
+    second: SuperTwoThree2
+  - first:
+      213: 1372016202406951876
+    second: SuperTwoThree3
+  - first:
+      213: 8232758703682247366
+    second: SuperTwoThree4
+  - first:
+      213: -1827215101302190218
+    second: Gogeta_SSB_SpriteSheet_205
+  - first:
+      213: 2249744133310448142
+    second: SuperTwoThree5
+  - first:
+      213: -6181723425498349237
+    second: SuperTwoThree6
+  - first:
+      213: -8523806347767744521
+    second: SuperTwoThree7
+  - first:
+      213: 3599132151120786364
+    second: SuperTwoThree8
+  - first:
+      213: -114558201376093959
+    second: SuperTwoThree9
+  - first:
+      213: 2839497002624752383
+    second: SuperTwoThree10
+  - first:
+      213: -1962073678312196927
+    second: SuperTwoThree11
+  - first:
+      213: -3361355589288458015
+    second: SuperTwoThreeBlastSmall1
+  - first:
+      213: 4944998907751874779
+    second: SuperTwoThreeBlastMed1
+  - first:
+      213: 1017900858952976300
+    second: SuperTwoThreeBlastLrg1
+  - first:
+      213: 7723008702237704568
+    second: Gogeta_SSB_SpriteSheet_216
+  - first:
+      213: -6776689781229045490
+    second: SuperTwoThreeBlastSmall2
+  - first:
+      213: 6262987909723173238
+    second: SuperTwoThreeBlastMed2
+  - first:
+      213: -3120001846723065833
+    second: SuperTwoThreeBlastLrg2
+  - first:
+      213: -5475161360213926155
+    second: SuperTwoThreeBlastSmall3
+  - first:
+      213: -2065194993680829100
+    second: SuperTwoThreeBlastMed3
+  - first:
+      213: 8722311906419453708
+    second: SuperTwoThreeBlastLrg3
+  - first:
+      213: 1880332345409033844
+    second: SuperTwoThreeBlast3
+  - first:
+      213: 6324119070027948245
+    second: SuperTwoThreeBlast4
+  - first:
+      213: -2207044664720116841
+    second: Gogeta_SSB_SpriteSheet_225
+  - first:
+      213: -3336974136678411704
+    second: Gogeta_SSB_SpriteSheet_226
+  - first:
+      213: -73973407006113685
+    second: Gogeta_SSB_SpriteSheet_227
+  - first:
+      213: 3733594837105516004
+    second: SuperTwoThree12
+  - first:
+      213: -906574161949915306
+    second: SuperTwoThree13
+  - first:
+      213: -6958316124359735104
+    second: SuperTwoThree14
+  - first:
+      213: 4017389725517970873
+    second: SuperTwoThree23
+  - first:
+      213: 2851159933369022305
+    second: SuperTwoThree23
+  - first:
+      213: 502856003377287037
+    second: SuperTwoThree23
+  - first:
+      213: -4260522740515172041
+    second: SuperTwoThree23
+  - first:
+      213: 652100729969680581
+    second: SuperTwoThree23
+  - first:
+      213: -7482890791252308144
+    second: SuperTwoThree23
+  - first:
+      213: -4476420815618737216
+    second: Gogeta_SSB_SpriteSheet_237
+  - first:
+      213: 4828778771811389842
+    second: SuperTwoThree23
+  - first:
+      213: -3528237879621256554
+    second: SuperTwoThree23
+  - first:
+      213: 767073797296410988
+    second: SuperTwoThree23
+  - first:
+      213: -5776155148362913299
+    second: SuperTwoThreeBlast1
+  - first:
+      213: 4292277254054148965
+    second: SuperTwoThreeBlast2
+  - first:
+      213: -2704698899131989960
+    second: Gogeta_SSB_SpriteSheet_243
+  - first:
+      213: -8057591372940404149
+    second: SuperThreeKiBlast
+  - first:
+      213: 5300925634844621998
+    second: SuperThree4
+  - first:
+      213: -29271483514320041
+    second: SuperThree5
+  - first:
+      213: -2271809565477824310
+    second: SuperThree11
+  - first:
+      213: -370898532635784541
+    second: SuperThree11
+  - first:
+      213: 6151343539015262046
+    second: SuperThree11
+  - first:
+      213: -7976314979122539215
+    second: SuperThree11
+  - first:
+      213: -184977989956224660
+    second: SuperThree11
+  - first:
+      213: 5528544086815755651
+    second: SuperThree11
+  - first:
+      213: -2933345678580788458
+    second: SuperFour1
+  - first:
+      213: -8199610401691444018
+    second: SuperFour2
+  - first:
+      213: -1531724477398488881
+    second: SuperFour3
+  - first:
+      213: -2605113917078244626
+    second: SuperFour4
+  - first:
+      213: -3332533278312105221
+    second: Gogeta_SSB_SpriteSheet_257
+  - first:
+      213: 7832698861321656748
+    second: SuperFour7
+  - first:
+      213: -2810405330801262042
+    second: SuperFour8
+  - first:
+      213: -4262363615627035354
+    second: SuperFour9
+  - first:
+      213: 1974378136826415938
+    second: SuperFour10
+  - first:
+      213: 280979728095984920
+    second: SuperFour11
+  - first:
+      213: -3285500721969089299
+    second: SuperFour12
+  - first:
+      213: -6650720688065727126
+    second: SuperFour13
+  - first:
+      213: 7647245575412676734
+    second: SuperFour15
+  - first:
+      213: 570008853682439792
+    second: SuperFour16
+  - first:
+      213: -2448383289269670293
+    second: Gogeta_SSB_SpriteSheet_267
+  - first:
+      213: 3863657956037484283
+    second: SuperFourKi1
+  - first:
+      213: 5956570334326088720
+    second: SuperFourKi2
+  - first:
+      213: -1181632643680658446
+    second: SuperFour5
+  - first:
+      213: 7023777704418752437
+    second: SuperFour6
+  - first:
+      213: -2537850369242200571
+    second: Gogeta_SSB_SpriteSheet_272
+  - first:
+      213: 807911551311641382
+    second: Gogeta_SSB_SpriteSheet_273
+  - first:
+      213: 1835674166984727562
+    second: Gogeta_SSB_SpriteSheet_274
+  - first:
+      213: 5989504257106422061
+    second: SuperFourKi5
+  - first:
+      213: -5979411112500287160
+    second: Gogeta_SSB_SpriteSheet_276
+  - first:
+      213: -6567812130478910116
+    second: SuperFourKi6
+  - first:
+      213: 2169481124022798676
+    second: SuperFourKi7
+  - first:
+      213: 2807977683689027833
+    second: Gogeta_SSB_SpriteSheet_279
+  - first:
+      213: -969523291643559537
+    second: SuperFourKi3
+  - first:
+      213: -3478950497430877833
+    second: SuperFourKi4
+  - first:
+      213: 9107706435737133861
+    second: Gogeta_SSB_SpriteSheet_282
+  - first:
+      213: 4106091971648280964
+    second: Gogeta_SSB_SpriteSheet_283
+  - first:
+      213: 5486547403035896836
+    second: SuperFourKi8
+  - first:
+      213: 4584961537861281047
+    second: SuperFourKi9
+  - first:
+      213: 8645379769653223017
+    second: SuperFourKi10
+  - first:
+      213: -5277706957085852913
+    second: Gogeta_SSB_SpriteSheet_287
+  - first:
+      213: 8249879356687307785
+    second: SuperFourKi11
+  - first:
+      213: 1703650464333094790
+    second: Gogeta_SSB_SpriteSheet_289
+  - first:
+      213: -1329904778070388547
+    second: SuperFourKi12
+  - first:
+      213: 4718784663434501793
+    second: SuperFourKi13
+  - first:
+      213: -2113125330690028940
+    second: SuperFourKi14
+  - first:
+      213: -3623432351081237715
+    second: SuperFourKi15
+  - first:
+      213: -5313776255128594894
+    second: SuperFourKi16
+  - first:
+      213: 1588835119489583395
+    second: SuperFourKi17
+  - first:
+      213: 402659936755025837
+    second: Gogeta_SSB_SpriteSheet_296
+  - first:
+      213: -3568330947159815517
+    second: Win1
+  - first:
+      213: -2495926644637133634
+    second: Win2
+  - first:
+      213: 4917364641727432950
+    second: Win3
+  - first:
+      213: 3803427029348973817
+    second: Win4
+  - first:
+      213: -7860799049108619649
+    second: Win5
+  - first:
+      213: -1173247055032688475
+    second: Gogeta_SSB_SpriteSheet_302
+  - first:
+      213: -1917832934517973366
+    second: Lose1
+  - first:
+      213: 8635996271687272214
+    second: Lose2
+  - first:
+      213: -5165578028878981490
+    second: Lose3
+  - first:
+      213: 3176610616487909024
+    second: Lose4
+  - first:
+      213: 2861330057813236259
+    second: Gogeta_SSB_SpriteSheet_307
+  - first:
+      213: -3003168071739595283
+    second: Lose5
+  - first:
+      213: -2957882721075725362
+    second: Lose6
+  - first:
+      213: 4385583568258727189
+    second: Lose6
+  - first:
+      213: 8310045529003640037
+    second: Lose8
+  - first:
+      213: 765334917879638964
+    second: Gogeta_SSB_SpriteSheet_312
+  - first:
+      213: 7568793206958110835
+    second: Gogeta_SSB_SpriteSheet_313
+  - first:
+      213: -4639653982581923446
+    second: Gogeta_SSB_SpriteSheet_314
+  - first:
+      213: 5754149266746101242
+    second: Gogeta_SSB_SpriteSheet_315
+  - first:
+      213: -2402764503428116539
+    second: Gogeta_SSB_SpriteSheet_316
+  - first:
+      213: -6178614901451860260
+    second: Gogeta_SSB_SpriteSheet_317
+  - first:
+      213: -5326231276005582815
+    second: Gogeta_SSB_SpriteSheet_318
+  - first:
+      213: 6374589260391902569
+    second: Gogeta_SSB_SpriteSheet_319
+  - first:
+      213: -3367082432737869769
+    second: Gogeta_SSB_SpriteSheet_320
+  - first:
+      213: 2520230808536060366
+    second: Gogeta_SSB_SpriteSheet_321
+  - first:
+      213: -2498481353205408815
+    second: Gogeta_SSB_SpriteSheet_322
+  - first:
+      213: 8435416170134534395
+    second: Gogeta_SSB_SpriteSheet_323
+  - first:
+      213: 1774417701455427270
+    second: Gogeta_SSB_SpriteSheet_324
+  - first:
+      213: -2922870246260131611
+    second: Gogeta_SSB_SpriteSheet_325
+  - first:
+      213: 2031023290083045524
+    second: Gogeta_SSB_SpriteSheet_326
+  - first:
+      213: -5653732598667433676
+    second: Gogeta_SSB_SpriteSheet_327
+  - first:
+      213: -6676378911390087002
+    second: Gogeta_SSB_SpriteSheet_328
+  - first:
+      213: -4426591880786641585
+    second: Gogeta_SSB_SpriteSheet_329
+  - first:
+      213: 6608404553343551789
+    second: Gogeta_SSB_SpriteSheet_330
+  - first:
+      213: -134024494292358716
+    second: Gogeta_SSB_SpriteSheet_331
+  - first:
+      213: -5277247210603425166
+    second: SuperThree1
+  - first:
+      213: 5704412882864358519
+    second: Gogeta_SSB_SpriteSheet_1
+  - first:
+      213: 347402169958977959
+    second: SuperThree1
+  - first:
+      213: -3956989838143399505
+    second: SuperThree2
+  - first:
+      213: 7387841204778379311
+    second: SuperThree3
+  - first:
+      213: 8434787551163124764
+    second: Gogeta_SSB_SpriteSheet_5
+  - first:
+      213: -599559202494640710
+    second: Gogeta_SSB_SpriteSheet_6
+  - first:
+      213: 1703628101216394768
+    second: Gogeta_SSB_SpriteSheet_7
+  - first:
+      213: 5326859700824740185
+    second: IconSelect
+  - first:
+      213: 7214041421783491394
+    second: Intro2
+  - first:
+      213: -3493686584381547
+    second: Intro3
+  - first:
+      213: -2579845809000397376
+    second: Intro5
+  - first:
+      213: 396940778141775649
+    second: Intro6
+  - first:
+      213: 420241007572881895
+    second: Gogeta_SSB_SpriteSheet_13
+  - first:
+      213: 1151885193683544123
+    second: Gogeta_SSB_SpriteSheet_14
+  - first:
+      213: -3655741501669016100
+    second: Intro8
+  - first:
+      213: 1660698123478086625
+    second: Gogeta_SSB_SpriteSheet_16
+  - first:
+      213: 4460262755188100015
+    second: Gogeta_SSB_SpriteSheet_17
+  - first:
+      213: -1292640764685977533
+    second: Intro9
+  - first:
+      213: 414608285695484295
+    second: Idle1
+  - first:
+      213: 4010745641083923202
+    second: Idle2
+  - first:
+      213: -2967475749815445992
+    second: Intro1
+  - first:
+      213: -3930221351921679148
+    second: Gogeta_SSB_SpriteSheet_22
+  - first:
+      213: 3070689191916730375
+    second: Gogeta_SSB_SpriteSheet_23
+  - first:
+      213: -262367599766182592
+    second: Gogeta_SSB_SpriteSheet_24
+  - first:
+      213: -5924105667239457372
+    second: Gogeta_SSB_SpriteSheet_25
+  - first:
+      213: -7372780462641598816
+    second: Gogeta_SSB_SpriteSheet_26
+  - first:
+      213: 1021556132091470914
+    second: Gogeta_SSB_SpriteSheet_27
+  - first:
+      213: 7943074620260791052
+    second: Gogeta_SSB_SpriteSheet_28
+  - first:
+      213: -1382603763077626681
+    second: Gogeta_SSB_SpriteSheet_29
+  - first:
+      213: 4774412063890377281
+    second: Gogeta_SSB_SpriteSheet_30
+  - first:
+      213: -924877028989798474
+    second: Gogeta_SSB_SpriteSheet_31
+  - first:
+      213: 1589195644932194328
+    second: Gogeta_SSB_SpriteSheet_32
+  - first:
+      213: 4567088268195503955
+    second: Gogeta_SSB_SpriteSheet_33
+  - first:
+      213: -8761426287769830254
+    second: Gogeta_SSB_SpriteSheet_34
+  - first:
+      213: -1102532557798948768
+    second: Substitute1
+  - first:
+      213: -4591824944528313341
+    second: Substitute2
+  - first:
+      213: 7544348715341913618
+    second: Substitute3
+  - first:
+      213: -6947127990615668384
+    second: Gogeta_SSB_SpriteSheet_38
+  - first:
+      213: 6991835665769506735
+    second: Gogeta_SSB_SpriteSheet_39
+  - first:
+      213: 5625943651723828485
+    second: Substitute4
+  - first:
+      213: 138651209798751692
+    second: Gogeta_SSB_SpriteSheet_41
+  - first:
+      213: 3853176720236481665
+    second: Gogeta_SSB_SpriteSheet_42
+  - first:
+      213: 4263919330143437768
+    second: RunBack1
+  - first:
+      213: 8454112798384432811
+    second: RunBack2
+  - first:
+      213: -4131313926067379734
+    second: RunFront1
+  - first:
+      213: 402416627831283682
+    second: RunFront2
+  - first:
+      213: 6110043097474212074
+    second: Gogeta_SSB_SpriteSheet_47
+  - first:
+      213: 1142722198802118527
+    second: Jump1
+  - first:
+      213: 8422089925481572559
+    second: Jump2
+  - first:
+      213: 3378542601437742010
+    second: Jump3
+  - first:
+      213: 4933252111706623427
+    second: Jump4
+  - first:
+      213: -8507916269318596847
+    second: Jump5
+  - first:
+      213: -5885811074346291224
+    second: Jump6
+  - first:
+      213: -6767145380289032294
+    second: Light1
+  - first:
+      213: -1470313398667650837
+    second: Gogeta_SSB_SpriteSheet_55
+  - first:
+      213: 6129286183089325829
+    second: FrontDash
+  - first:
+      213: 7944742235206088928
+    second: BackDash
+  - first:
+      213: 5277811334612107843
+    second: Gogeta_SSB_SpriteSheet_58
+  - first:
+      213: 1536275010350222552
+    second: Gogeta_SSB_SpriteSheet_59
+  - first:
+      213: -4229822055064562512
+    second: Gogeta_SSB_SpriteSheet_60
+  - first:
+      213: 6373993522765211752
+    second: Gogeta_SSB_SpriteSheet_61
+  - first:
+      213: -66750607337506728
+    second: Gogeta_SSB_SpriteSheet_62
+  - first:
+      213: -6337107179145374670
+    second: Gogeta_SSB_SpriteSheet_63
+  - first:
+      213: 7982428644566388741
+    second: Light2
+  - first:
+      213: -4477970700492515926
+    second: Light3
+  - first:
+      213: 6398695108258711418
+    second: Light12
+  - first:
+      213: 412068092764927364
+    second: Light12
+  - first:
+      213: 4519115449088462138
+    second: Light12
+  - first:
+      213: -118527159058203974
+    second: Light12
+  - first:
+      213: -2427580159434060636
+    second: Light12
+  - first:
+      213: -8309870785851803159
+    second: Light12
+  - first:
+      213: -8603598123536543286
+    second: Light12
+  - first:
+      213: 4831170955295573889
+    second: Light12
+  - first:
+      213: -4813924372011611517
+    second: Light12
+  - first:
+      213: 3763370840599160279
+    second: Heavy1
+  - first:
+      213: 8336743577993598639
+    second: Heavy2
+  - first:
+      213: -5376637395734965700
+    second: Heavy3
+  - first:
+      213: -4692223961614643343
+    second: Heavy4
+  - first:
+      213: -3670290966896632454
+    second: Heavy5
+  - first:
+      213: 325286164361004346
+    second: Heavy6
+  - first:
+      213: -5605113044315851381
+    second: Heavy7
+  - first:
+      213: 5713840423676591735
+    second: Heavy8
+  - first:
+      213: -4012240842133672775
+    second: Heavy9
+  - first:
+      213: -8239996196966503953
+    second: Heavy10
+  - first:
+      213: -3082816736642701958
+    second: Heavy11
+  - first:
+      213: 6451442096838790561
+    second: Heavy12
+  - first:
+      213: 5108299432016631412
+    second: GrabBlast1
+  - first:
+      213: 5886581839154529655
+    second: Gogeta_SSB_SpriteSheet_88
+  - first:
+      213: -3789541184112541180
+    second: AirGuard
+  - first:
+      213: 4881431210526993716
+    second: Grab1
+  - first:
+      213: -7108234947017620677
+    second: Grab2
+  - first:
+      213: 881775521341414909
+    second: Grab3
+  - first:
+      213: 9210638978611652733
+    second: Grab4
+  - first:
+      213: -6393607671189911252
+    second: Grab5
+  - first:
+      213: -2420250178695927144
+    second: Grab6
+  - first:
+      213: 1973715157057388335
+    second: Grab7
+  - first:
+      213: 5617364080789323583
+    second: Grab8
+  - first:
+      213: 7286554742891058582
+    second: Grab9
+  - first:
+      213: 3659444214263741078
+    second: GrabBlast2
+  - first:
+      213: -9072603549509089581
+    second: Gogeta_SSB_SpriteSheet_100
+  - first:
+      213: -9011280178937391452
+    second: Damage1
+  - first:
+      213: 7226200580755733279
+    second: Damage2
+  - first:
+      213: 7826025097593438513
+    second: Damage3
+  - first:
+      213: -6899499899729220402
+    second: Damage4
+  - first:
+      213: 3085438934024032499
+    second: Gogeta_SSB_SpriteSheet_105
+  - first:
+      213: -2379802420258678272
+    second: Guard1
+  - first:
+      213: 1539081370114141272
+    second: Guard2
+  - first:
+      213: -2760873732729797120
+    second: Gogeta_SSB_SpriteSheet_108
+  - first:
+      213: 2727760572619061045
+    second: CrouchGuard
+  - first:
+      213: 6024782039579670998
+    second: Gogeta_SSB_SpriteSheet_110
+  - first:
+      213: -6682226558021330533
+    second: Gogeta_SSB_SpriteSheet_111
+  - first:
+      213: -3726716096634982229
+    second: Gogeta_SSB_SpriteSheet_112
+  - first:
+      213: 8784080084773374894
+    second: Gogeta_SSB_SpriteSheet_113
+  - first:
+      213: 5113311076249098319
+    second: Gogeta_SSB_SpriteSheet_114
+  - first:
+      213: -8370898665459871854
+    second: KiCharge3
+  - first:
+      213: 6198449808536250952
+    second: Gogeta_SSB_SpriteSheet_116
+  - first:
+      213: 2914350618436612268
+    second: Gogeta_SSB_SpriteSheet_117
+  - first:
+      213: -4250390077338634334
+    second: KiCharge4
+  - first:
+      213: -1098614584631041947
+    second: Gogeta_SSB_SpriteSheet_119
+  - first:
+      213: 7729756136909133266
+    second: Gogeta_SSB_SpriteSheet_120
+  - first:
+      213: -5856364310843247477
+    second: Gogeta_SSB_SpriteSheet_121
+  - first:
+      213: -5575753852688208659
+    second: Gogeta_SSB_SpriteSheet_122
+  - first:
+      213: 3133585212202467971
+    second: Gogeta_SSB_SpriteSheet_123
+  - first:
+      213: 1215413382936570262
+    second: Gogeta_SSB_SpriteSheet_124
+  - first:
+      213: -9163243924980349152
+    second: KiCharge1
+  - first:
+      213: 1580891761084563646
+    second: KiCharge2
+  - first:
+      213: 882936899209137496
+    second: Gogeta_SSB_SpriteSheet_127
+  - first:
+      213: 5417565940786862954
+    second: Gogeta_SSB_SpriteSheet_128
+  - first:
+      213: -8567739976873563454
+    second: KiCharge5
+  - first:
+      213: -8915724619860108970
+    second: Gogeta_SSB_SpriteSheet_130
+  - first:
+      213: -817310167197353648
+    second: Gogeta_SSB_SpriteSheet_131
+  - first:
+      213: 821530684354313827
+    second: KiBlast1
+  - first:
+      213: 3358390600246842050
+    second: KiBlast2
+  - first:
+      213: 6207112386418112392
+    second: KiBlast3
+  - first:
+      213: -8574021804648518299
+    second: KiBlast4
+  - first:
+      213: -299616711455556261
+    second: KiBlast5
+  - first:
+      213: -9075254340417691577
+    second: KiBlast6
+  - first:
+      213: 8253525319135382662
+    second: KiBlast7
+  - first:
+      213: 2103709325565495464
+    second: Blast1
+  - first:
+      213: -1509634150616414910
+    second: Blast2
+  - first:
+      213: 1457617168646949417
+    second: Gogeta_SSB_SpriteSheet_141
+  - first:
+      213: -7297726826755551627
+    second: Gogeta_SSB_SpriteSheet_142
+  - first:
+      213: -6718942035721838722
+    second: SuperOne2
+  - first:
+      213: -1422189892274399103
+    second: SuperOne3
+  - first:
+      213: 3180321393344530967
+    second: SuperOne4
+  - first:
+      213: -815519519491805598
+    second: SuperOne5
+  - first:
+      213: -3341225014369689541
+    second: SuperOne6
+  - first:
+      213: 2893812233331489352
+    second: SuperOne7
+  - first:
+      213: -5361711825604449745
+    second: Gogeta_SSB_SpriteSheet_149
+  - first:
+      213: 5802373592150892129
+    second: SuperOne12
+  - first:
+      213: -971365470326022359
+    second: SuperOne13
+  - first:
+      213: 167868530045665958
+    second: SuperOne14
+  - first:
+      213: -5829172619569833180
+    second: SuperOne1
+  - first:
+      213: -3998955742037018758
+    second: SuperOne8
+  - first:
+      213: 3818328662079171706
+    second: SuperOne9
+  - first:
+      213: 6885059194052461501
+    second: SuperOne10
+  - first:
+      213: -2235369855788493460
+    second: SuperOne11
+  - first:
+      213: -4762224233227816728
+    second: SuperTwo1
+  - first:
+      213: -8400670954125471034
+    second: SuperTwo2
+  - first:
+      213: 8833861618656103521
+    second: SuperTwo3
+  - first:
+      213: -8537738607038506118
+    second: SuperTwo4
+  - first:
+      213: 2660358614934626827
+    second: SuperTwo5
+  - first:
+      213: -6440313934129136412
+    second: SuperTwo6
+  - first:
+      213: 5191954551145751141
+    second: SuperTwo7
+  - first:
+      213: 2927692926319903696
+    second: SuperTwo8
+  - first:
+      213: 1044601443178412738
+    second: SuperTwo9
+  - first:
+      213: 5462696361172051804
+    second: SuperTwo10
+  - first:
+      213: 2405489286569633156
+    second: SuperTwo11
+  - first:
+      213: -2979687877010280434
+    second: SuperTwo12
+  - first:
+      213: -5821724731963751993
+    second: Gogeta_SSB_SpriteSheet_170
+  - first:
+      213: 309500422259356053
+    second: SuperTwo13
+  - first:
+      213: 1624280968640752121
+    second: SuperTwo14
+  - first:
+      213: -2242362218189148257
+    second: SuperTwo15
+  - first:
+      213: -1602350096820612853
+    second: SuperTwo16
+  - first:
+      213: 8353663006810039964
+    second: Gogeta_SSB_SpriteSheet_175
+  - first:
+      213: -257470488898376019
+    second: SuperTwo17
+  - first:
+      213: 4287933672062134271
+    second: Gogeta_SSB_SpriteSheet_177
+  - first:
+      213: -1702781284110246562
+    second: SuperTwo18
+  - first:
+      213: 161067115802533448
+    second: SuperTwo19
+  - first:
+      213: -398322691952537644
+    second: Gogeta_SSB_SpriteSheet_180
+  - first:
+      213: 3442845674202864756
+    second: SuperTwo20
+  - first:
+      213: -329500771929985195
+    second: SuperTwo21
+  - first:
+      213: 1515995155989214096
+    second: SuperTwo22
+  - first:
+      213: 5341475548125129500
+    second: SuperTwoBlast5
+  - first:
+      213: -6825919323739106409
+    second: SuperTwo23
+  - first:
+      213: 5340896897419524256
+    second: SuperTwo24
+  - first:
+      213: 8003996856059012724
+    second: SuperTwo25
+  - first:
+      213: -6604305589122529630
+    second: SuperTwoBlast6
+  - first:
+      213: -4860412749774466492
+    second: Gogeta_SSB_SpriteSheet_189
+  - first:
+      213: -4712660388921106072
+    second: SuperTwoBlast1
+  - first:
+      213: 5280084726403790611
+    second: SuperTwoBlast2
+  - first:
+      213: 6167396768106484395
+    second: SuperTwoBlast3
+  - first:
+      213: -1111362849450568940
+    second: SuperTwoBlast4
+  - first:
+      213: 9100590469989162880
+    second: SuperTwoBlast7
+  - first:
+      213: -1594573362067737377
+    second: SuperTwoBlast8
+  - first:
+      213: 4038214661958093392
+    second: SuperTwoBlast9
+  - first:
+      213: 6384083215769947125
+    second: SuperTwoBlast10
+  - first:
+      213: 3425834322279363438
+    second: Gogeta_SSB_SpriteSheet_198
+  - first:
+      213: -6539583125919129894
+    second: Gogeta_SSB_SpriteSheet_199
+  - first:
+      213: -753187953792464621
+    second: Gogeta_SSB_SpriteSheet_200
+  - first:
+      213: -7706320837563524068
+    second: SuperTwoThree1
+  - first:
+      213: -6875638591303173522
+    second: SuperTwoThree2
+  - first:
+      213: -8714781595531319118
+    second: SuperTwoThree3
+  - first:
+      213: -4624770098110147855
+    second: SuperTwoThree4
+  - first:
+      213: 5471012845561119859
+    second: Gogeta_SSB_SpriteSheet_205
+  - first:
+      213: -5215177931828420415
+    second: SuperTwoThree5
+  - first:
+      213: -6023199133803865500
+    second: SuperTwoThree6
+  - first:
+      213: -2090940956197092478
+    second: SuperTwoThree7
+  - first:
+      213: -7514229837148720981
+    second: SuperTwoThree8
+  - first:
+      213: 4185392147083795429
+    second: SuperTwoThree9
+  - first:
+      213: -4538285312618411319
+    second: SuperTwoThree10
+  - first:
+      213: 5966885976911434931
+    second: SuperTwoThree11
+  - first:
+      213: 8373259025670768236
+    second: SuperTwoThreeBlastSmall1
+  - first:
+      213: 5906912904501460212
+    second: SuperTwoThreeBlastMed1
+  - first:
+      213: 6903557798936147668
+    second: SuperTwoThreeBlastLrg1
+  - first:
+      213: 2204451846728523102
+    second: Gogeta_SSB_SpriteSheet_216
+  - first:
+      213: -4745234613629652524
+    second: SuperTwoThreeBlastSmall2
+  - first:
+      213: -2128380509199335707
+    second: SuperTwoThreeBlastMed2
+  - first:
+      213: -5632150124332009549
+    second: SuperTwoThreeBlastLrg2
+  - first:
+      213: -2066993867787092864
+    second: SuperTwoThreeBlastSmall3
+  - first:
+      213: 6449302264953929239
+    second: SuperTwoThreeBlastMed3
+  - first:
+      213: -5921306942300235097
+    second: SuperTwoThreeBlastLrg3
+  - first:
+      213: -1884658527410636157
+    second: SuperTwoThreeBlast3
+  - first:
+      213: 4891273080765501159
+    second: SuperTwoThreeBlast4
+  - first:
+      213: -9137253925484531138
+    second: Gogeta_SSB_SpriteSheet_225
+  - first:
+      213: 4961194000512564542
+    second: Gogeta_SSB_SpriteSheet_226
+  - first:
+      213: -5984982718589532848
+    second: Gogeta_SSB_SpriteSheet_227
+  - first:
+      213: 369271021431290628
+    second: SuperTwoThree12
+  - first:
+      213: 1657508941555565157
+    second: SuperTwoThree13
+  - first:
+      213: -625790047755290363
+    second: SuperTwoThree14
+  - first:
+      213: -5839245238585923560
+    second: SuperTwoThree23
+  - first:
+      213: -3243911572049969276
+    second: SuperTwoThree23
+  - first:
+      213: 3907774354287819934
+    second: SuperTwoThree23
+  - first:
+      213: -4468478883042671428
+    second: SuperTwoThree23
+  - first:
+      213: -907693386379205462
+    second: SuperTwoThree23
+  - first:
+      213: 6623605894868474443
+    second: SuperTwoThree23
+  - first:
+      213: 991055529638514876
+    second: Gogeta_SSB_SpriteSheet_237
+  - first:
+      213: -3406188441095172403
+    second: SuperTwoThree23
+  - first:
+      213: -6973975701144680413
+    second: SuperTwoThree23
+  - first:
+      213: 1975379810875540540
+    second: SuperTwoThree23
+  - first:
+      213: -3534490487901424794
+    second: SuperTwoThreeBlast1
+  - first:
+      213: 2779851122579770181
+    second: SuperTwoThreeBlast2
+  - first:
+      213: 5971159881269453735
+    second: Gogeta_SSB_SpriteSheet_243
+  - first:
+      213: 5503557376191315624
+    second: SuperThreeKiBlast
+  - first:
+      213: 1123144089893056160
+    second: SuperThree4
+  - first:
+      213: -5841295374289246560
+    second: SuperThree5
+  - first:
+      213: -6714741875765986290
+    second: SuperThree11
+  - first:
+      213: -2427061554472894477
+    second: SuperThree11
+  - first:
+      213: 5790584849308545646
+    second: SuperThree11
+  - first:
+      213: -1075653784700643489
+    second: SuperThree11
+  - first:
+      213: -5242290915141517591
+    second: SuperThree11
+  - first:
+      213: 6084711199261130654
+    second: SuperThree11
+  - first:
+      213: -1310788618198336046
+    second: SuperFour1
+  - first:
+      213: -2016032139458001958
+    second: SuperFour2
+  - first:
+      213: -7652435797812018985
+    second: SuperFour3
+  - first:
+      213: 2400866438097363465
+    second: SuperFour4
+  - first:
+      213: -4715873036375041298
+    second: Gogeta_SSB_SpriteSheet_257
+  - first:
+      213: 8154569543319244006
+    second: SuperFour7
+  - first:
+      213: -7725242244341051185
+    second: SuperFour8
+  - first:
+      213: -3808456812182482472
+    second: SuperFour9
+  - first:
+      213: 6565438191368461847
+    second: SuperFour10
+  - first:
+      213: 4115833222196478768
+    second: SuperFour11
+  - first:
+      213: -8420272556170580136
+    second: SuperFour12
+  - first:
+      213: 4373957874052490574
+    second: SuperFour13
+  - first:
+      213: 2784024189130089764
+    second: SuperFour15
+  - first:
+      213: -1602585896539000215
+    second: SuperFour16
+  - first:
+      213: 1794572417503761362
+    second: Gogeta_SSB_SpriteSheet_267
+  - first:
+      213: -9000867525653488201
+    second: SuperFourKi1
+  - first:
+      213: -2486118263190448989
+    second: SuperFourKi2
+  - first:
+      213: -6365614995843240344
+    second: SuperFour5
+  - first:
+      213: -2942828723644751282
+    second: SuperFour6
+  - first:
+      213: 7345431000103916815
+    second: Gogeta_SSB_SpriteSheet_272
+  - first:
+      213: 4330573764028039869
+    second: Gogeta_SSB_SpriteSheet_273
+  - first:
+      213: -4472195892682150649
+    second: Gogeta_SSB_SpriteSheet_274
+  - first:
+      213: 2146183900982359924
+    second: SuperFourKi5
+  - first:
+      213: 2420703677608338
+    second: Gogeta_SSB_SpriteSheet_276
+  - first:
+      213: -1931840030919478744
+    second: SuperFourKi6
+  - first:
+      213: 4736126879037272538
+    second: SuperFourKi7
+  - first:
+      213: 9171425534980082015
+    second: Gogeta_SSB_SpriteSheet_279
+  - first:
+      213: 5519724272032849635
+    second: SuperFourKi3
+  - first:
+      213: 553298159783493008
+    second: SuperFourKi4
+  - first:
+      213: 8722294485315984224
+    second: Gogeta_SSB_SpriteSheet_282
+  - first:
+      213: -3615443224781358956
+    second: Gogeta_SSB_SpriteSheet_283
+  - first:
+      213: 366066405606889694
+    second: SuperFourKi8
+  - first:
+      213: 1552401317570658674
+    second: SuperFourKi9
+  - first:
+      213: -6145443615499440285
+    second: SuperFourKi10
+  - first:
+      213: -4900731278178235350
+    second: Gogeta_SSB_SpriteSheet_287
+  - first:
+      213: 1647997276305989344
+    second: SuperFourKi11
+  - first:
+      213: -4196538614279611266
+    second: Gogeta_SSB_SpriteSheet_289
+  - first:
+      213: -2853239924278047990
+    second: SuperFourKi12
+  - first:
+      213: -5787740195219289537
+    second: SuperFourKi13
+  - first:
+      213: -3413960966171980843
+    second: SuperFourKi14
+  - first:
+      213: 7635658845009282853
+    second: SuperFourKi15
+  - first:
+      213: -7982657461642046218
+    second: SuperFourKi16
+  - first:
+      213: -1928167000950316612
+    second: SuperFourKi17
+  - first:
+      213: -5397715363994534477
+    second: Gogeta_SSB_SpriteSheet_296
+  - first:
+      213: 3145689833167307652
+    second: Win1
+  - first:
+      213: 2127919252707216615
+    second: Win2
+  - first:
+      213: 2681047165805129831
+    second: Win3
+  - first:
+      213: -1646996466057102251
+    second: Win4
+  - first:
+      213: -6122503272386994845
+    second: Win5
+  - first:
+      213: -6837989064915132090
+    second: Gogeta_SSB_SpriteSheet_302
+  - first:
+      213: 6024145524491606244
+    second: Lose1
+  - first:
+      213: 1917038736493255013
+    second: Lose2
+  - first:
+      213: -2900800067058005892
+    second: Lose3
+  - first:
+      213: -41112346051216667
+    second: Lose4
+  - first:
+      213: 2028809391718789165
+    second: Gogeta_SSB_SpriteSheet_307
+  - first:
+      213: -8820609040279262336
+    second: Lose5
+  - first:
+      213: 5254622830866048142
+    second: Lose6
+  - first:
+      213: 7633116706521360702
+    second: Lose6
+  - first:
+      213: 1880296396253879391
+    second: Lose8
+  - first:
+      213: -7025654202378851431
+    second: Gogeta_SSB_SpriteSheet_312
+  - first:
+      213: -6465234994612311694
+    second: Gogeta_SSB_SpriteSheet_313
+  - first:
+      213: 4020498659912968192
+    second: Gogeta_SSB_SpriteSheet_314
+  - first:
+      213: -8316354319213279598
+    second: Gogeta_SSB_SpriteSheet_315
+  - first:
+      213: -6415142284356011800
+    second: Gogeta_SSB_SpriteSheet_316
+  - first:
+      213: -4830861511389215461
+    second: Gogeta_SSB_SpriteSheet_317
+  - first:
+      213: -6032707603144215331
+    second: Gogeta_SSB_SpriteSheet_318
+  - first:
+      213: -6150511092343573553
+    second: Gogeta_SSB_SpriteSheet_319
+  - first:
+      213: 8830062860855324715
+    second: Gogeta_SSB_SpriteSheet_320
+  - first:
+      213: -602286389152097468
+    second: Gogeta_SSB_SpriteSheet_321
+  - first:
+      213: 8844937405065296960
+    second: Gogeta_SSB_SpriteSheet_322
+  - first:
+      213: 8725940557098094674
+    second: Gogeta_SSB_SpriteSheet_323
+  - first:
+      213: 3533536451950914800
+    second: Gogeta_SSB_SpriteSheet_324
+  - first:
+      213: 9072565038832587181
+    second: Gogeta_SSB_SpriteSheet_325
+  - first:
+      213: 4531199476639705858
+    second: Gogeta_SSB_SpriteSheet_326
+  - first:
+      213: 903247515045649429
+    second: Gogeta_SSB_SpriteSheet_327
+  - first:
+      213: 4495158293927411139
+    second: Gogeta_SSB_SpriteSheet_328
+  - first:
+      213: -1787284347127612634
+    second: Gogeta_SSB_SpriteSheet_329
+  - first:
+      213: 6820923581789693726
+    second: Gogeta_SSB_SpriteSheet_330
+  - first:
+      213: 8588735387471970436
+    second: Gogeta_SSB_SpriteSheet_332
+  - first:
+      213: 347402169958977959
+    second: SuperThree1
+  - first:
+      213: -3956989838143399505
+    second: SuperThree2
+  - first:
+      213: 347402169958977959
+    second: Gogeta_SSB_SpriteSheet_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperThree2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 971
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d1ad05b2f519c0800000000000000
+      internalID: -3956989838143399505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconSelect
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2426
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951900cccaecce940800000000000000
+      internalID: 5326859700824740185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2426
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243eb54937c6d1460800000000000000
+      internalID: 7214041421783491394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2426
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6e24b28693fff0800000000000000
+      internalID: -3493686584381547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2426
+        width: 69
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54043c7eb823cd0800000000000000
+      internalID: -2579845809000397376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2426
+        width: 87
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f10ed887328500800000000000000
+      internalID: 396940778141775649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2426
+        width: 121
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7d522972344dc0800000000000000
+      internalID: -3655741501669016100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2426
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f3beb21e9f0ee0800000000000000
+      internalID: -1292640764685977533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2426
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78120d50a0cf0c500800000000000000
+      internalID: 414608285695484295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2426
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20be04529e709a730800000000000000
+      internalID: 4010745641083923202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2426
+        width: 26
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161aa4278861d6d0800000000000000
+      internalID: -2967475749815445992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Substitute1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2312
+        width: 29
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060471bea7403b0f0800000000000000
+      internalID: -1102532557798948768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Substitute2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2312
+        width: 29
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304bc9e9a8f8640c0800000000000000
+      internalID: -4591824944528313341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Substitute3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2312
+        width: 30
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e11a75f29e2b860800000000000000
+      internalID: 7544348715341913618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Substitute4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2312
+        width: 22
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddc5791fd531e40800000000000000
+      internalID: 5625943651723828485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBack1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2198
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30f102a0c7c2b30800000000000000
+      internalID: 4263919330143437768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBack2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2198
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6a9ce5cca035570800000000000000
+      internalID: 8454112798384432811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFront1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2198
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae121257fdf9aa6c0800000000000000
+      internalID: -4131313926067379734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFront2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2198
+        width: 54
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef18997acba59500800000000000000
+      internalID: 402416627831283682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2198
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77bd8019c3cbdf00800000000000000
+      internalID: 1142722198802118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2198
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a9b24a2641e470800000000000000
+      internalID: 8422089925481572559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2212
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab38831889ef2ee20800000000000000
+      internalID: 3378542601437742010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2202
+        width: 35
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd08b978ae667440800000000000000
+      internalID: 4933252111706623427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2198
+        width: 28
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179f7cda3fcde980800000000000000
+      internalID: -8507916269318596847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2198
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef67822306615ea0800000000000000
+      internalID: -5885811074346291224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2199
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f427861254612a0800000000000000
+      internalID: -6767145380289032294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontDash
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2197
+        width: 48
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507cfb52f499f0550800000000000000
+      internalID: 6129286183089325829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackDash
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2202
+        width: 61
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8708948f4614e60800000000000000
+      internalID: 7944742235206088928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2084
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500584c3f8847ce60800000000000000
+      internalID: 7982428644566388741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2084
+        width: 54
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5598a8f5d0bd1c0800000000000000
+      internalID: -4477970700492515926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2084
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774ac99c4bbcc850800000000000000
+      internalID: 6398695108258711418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2084
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b6844fb5f7b500800000000000000
+      internalID: 412068092764927364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2084
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc5e1ce8f17be30800000000000000
+      internalID: 4519115449088462138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2084
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba79144d28ea5ef0800000000000000
+      internalID: -118527159058203974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2083
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac8525f4b08f4ed0800000000000000
+      internalID: -2427580159434060636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2084
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e938ef3c886dac80800000000000000
+      internalID: -8309870785851803159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2085
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac113682711e99880800000000000000
+      internalID: -8603598123536543286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2087
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c39f1364cb0340800000000000000
+      internalID: 4831170955295573889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2088
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a07a6f941813db0800000000000000
+      internalID: -4813924372011611517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1975
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e9ff17dd2a3430800000000000000
+      internalID: 3763370840599160279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1974
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d3dd3d1012b370800000000000000
+      internalID: 8336743577993598639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1968
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d22576c85265b0800000000000000
+      internalID: -5376637395734965700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1973
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0269da2fd1eeb0800000000000000
+      internalID: -4692223961614643343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1973
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d1dc7cfc1801dc0800000000000000
+      internalID: -3670290966896632454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1969
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3546150b06a38400800000000000000
+      internalID: 325286164361004346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1970
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8535a32263a632b0800000000000000
+      internalID: -5605113044315851381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1970
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb2849793ab4f40800000000000000
+      internalID: 5713840423676591735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1981
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcee4b3638a158c0800000000000000
+      internalID: -4012240842133672775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1982
+        width: 56
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ed31cd17a5ad80800000000000000
+      internalID: -8239996196966503953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1984
+        width: 58
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7568c0f282a735d0800000000000000
+      internalID: -3082816736642701958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1985
+        width: 58
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc317e760288950800000000000000
+      internalID: 6451442096838790561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrabBlast1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1859
+        width: 47
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765eabb44354e640800000000000000
+      internalID: 5108299432016631412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirGuard
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1855
+        width: 26
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024243fe58d86bc0800000000000000
+      internalID: -3789541184112541180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1856
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d67f2b2d35eb340800000000000000
+      internalID: 4881431210526993716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1856
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334ffa0af97a5d90800000000000000
+      internalID: -7108234947017620677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1856
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd90313a22bc3c00800000000000000
+      internalID: 881775521341414909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1856
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a38ad953c2df70800000000000000
+      internalID: 9210638978611652733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1856
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c294385a2b75547a0800000000000000
+      internalID: -6393607671189911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1856
+        width: 56
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae047194b896ed0800000000000000
+      internalID: -2420250178695927144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1855
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb5386a7b046b10800000000000000
+      internalID: 1973715157057388335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1856
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7c719ed2e4fd40800000000000000
+      internalID: 5617364080789323583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grab9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1856
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695957eceea0f1560800000000000000
+      internalID: 7286554742891058582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrabBlast2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1868
+        width: 67
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a7c82df15f8c230800000000000000
+      internalID: 3659444214263741078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1856
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61beacb6081f280800000000000000
+      internalID: -9011280178937391452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1856
+        width: 37
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbaa3642f984460800000000000000
+      internalID: 7226200580755733279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage3
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1856
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314959bc50ab9c60800000000000000
+      internalID: 7826025097593438513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1856
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccebc4756d0040a0800000000000000
+      internalID: -6899499899729220402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1856
+        width: 27
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00addd8be4e39fed0800000000000000
+      internalID: -2379802420258678272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1856
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c231a0a5aeb5510800000000000000
+      internalID: 1539081370114141272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchGuard
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1856
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537764bd9c3fad520800000000000000
+      internalID: 2727760572619061045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiCharge3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1742
+        width: 80
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0972c30894db80800000000000000
+      internalID: -8370898665459871854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiCharge4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1742
+        width: 91
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b2638eb49305c0800000000000000
+      internalID: -4250390077338634334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiCharge1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1742
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274a4df23e95d080800000000000000
+      internalID: -9163243924980349152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiCharge2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1742
+        width: 93
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb089c74ea470f510800000000000000
+      internalID: 1580891761084563646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiCharge5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1741
+        width: 111
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa98682e5491980800000000000000
+      internalID: -8567739976873563454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1742
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb5050ec9a66b00800000000000000
+      internalID: 821530684354313827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1742
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c259b815766b9e20800000000000000
+      internalID: 3358390600246842050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1742
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887f06924d7142650800000000000000
+      internalID: 6207112386418112392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1742
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da8758894f20980800000000000000
+      internalID: -8574021804648518299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1742
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbbe8303c87dbf0800000000000000
+      internalID: -299616711455556261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1742
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e41992483e0280800000000000000
+      internalID: -9075254340417691577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KiBlast7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1742
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc1c77c896a8270800000000000000
+      internalID: 8253525319135382662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1764
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a802055c70e13d10800000000000000
+      internalID: 2103709325565495464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1764
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c5b70db3bc0be0800000000000000
+      internalID: -1509634150616414910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1624
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1c5621d581c2a0800000000000000
+      internalID: -6718942035721838722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1633
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18855dbf3dd534ce0800000000000000
+      internalID: -1422189892274399103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1664
+        width: 49
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a40e90575c22c20800000000000000
+      internalID: 3180321393344530967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1644
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2b4d5151bea4f0800000000000000
+      internalID: -815519519491805598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1647
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3068df4d8591a1d0800000000000000
+      internalID: -3341225014369689541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1648
+        width: 39
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3766e4e2e82820800000000000000
+      internalID: 2893812233331489352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1643
+        width: 84
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed24e2a0c268050800000000000000
+      internalID: 5802373592150892129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1584
+        width: 187
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f132250440582f0800000000000000
+      internalID: -971365470326022359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1514
+        width: 398
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c656e983645200800000000000000
+      internalID: 167868530045665958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1602
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5b14036e9a1fa0800000000000000
+      internalID: -5829172619569833180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1507
+        width: 73
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ff53a0fad088c0800000000000000
+      internalID: -3998955742037018758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1509
+        width: 76
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cebe210bd6df430800000000000000
+      internalID: 3818328662079171706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1511
+        width: 77
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c80fbbd4ac8f50800000000000000
+      internalID: 6885059194052461501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperOne11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1510
+        width: 74
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c655c1ca5fe5af0e0800000000000000
+      internalID: -2235369855788493460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1399
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f2bd8a4e29edb0800000000000000
+      internalID: -4762224233227816728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1399
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d860a642da6b80800000000000000
+      internalID: -8400670954125471034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1399
+        width: 84
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c44fe965e289a70800000000000000
+      internalID: 8833861618656103521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1399
+        width: 74
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd456c8fbd38980800000000000000
+      internalID: -8537738607038506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1399
+        width: 64
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02245aa01e7be420800000000000000
+      internalID: 2660358614934626827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1399
+        width: 87
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfb3269986f96a0800000000000000
+      internalID: -6440313934129136412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1390
+        width: 79
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e307f7278d0840800000000000000
+      internalID: 5191954551145751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1391
+        width: 61
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3c8b4743141a820800000000000000
+      internalID: 2927692926319903696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1399
+        width: 87
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca72806a7b2f7e00800000000000000
+      internalID: 1044601443178412738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1390
+        width: 79
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57aa7bd5656fcb40800000000000000
+      internalID: 5462696361172051804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1391
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485adf4e2c3026120800000000000000
+      internalID: 2405489286569633156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo12
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1400
+        width: 61
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b345b9a506a6d0800000000000000
+      internalID: -2979687877010280434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo13
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1412
+        width: 71
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5913a968ef09b4400800000000000000
+      internalID: 309500422259356053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1414
+        width: 90
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f962476fea9a8610800000000000000
+      internalID: 1624280968640752121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo15
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1415
+        width: 90
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f241f617781e0e0800000000000000
+      internalID: -2242362218189148257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1295
+        width: 66
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d139931f43c9e0800000000000000
+      internalID: -1602350096820612853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1286
+        width: 77
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee01954f74d6cf0800000000000000
+      internalID: -257470488898376019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1286
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ddc6e91718e58e0800000000000000
+      internalID: -1702781284110246562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1286
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e186e30b93c3200800000000000000
+      internalID: 161067115802533448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1286
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1a5356e177cf20800000000000000
+      internalID: 3442845674202864756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1286
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f65ef2bc06d6bf0800000000000000
+      internalID: -329500771929985195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1286
+        width: 26
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09333f1ff85e90510800000000000000
+      internalID: 1515995155989214096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1309
+        width: 38
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bee6ee5bbb02a40800000000000000
+      internalID: 5341475548125129500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1286
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7935e035a867541a0800000000000000
+      internalID: -6825919323739106409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1286
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83da05e6dae1a40800000000000000
+      internalID: 5340896897419524256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwo25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1286
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476adbccbb8e31f60800000000000000
+      internalID: 8003996856059012724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1300
+        width: 13
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6893cce0bc854a0800000000000000
+      internalID: -6604305589122529630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1304
+        width: 22
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ad435854499eb0800000000000000
+      internalID: -4712660388921106072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1305
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31773456511a64940800000000000000
+      internalID: 5280084726403790611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1302
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba211ef2faef69550800000000000000
+      internalID: 6167396768106484395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1305
+        width: 24
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413deed6065a390f0800000000000000
+      internalID: -1111362849450568940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1301
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5202c0dacb4e70800000000000000
+      internalID: 9100590469989162880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1298
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4f6a1c9ffeed9e0800000000000000
+      internalID: -1594573362067737377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast9
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1301
+        width: 24
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a49c4f6de9a0830800000000000000
+      internalID: 4038214661958093392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoBlast10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1305
+        width: 38
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb40844cd1d89850800000000000000
+      internalID: 6384083215769947125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1172
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd5df2706ad0590800000000000000
+      internalID: -7706320837563524068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1172
+        width: 77
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a38614123d490a0800000000000000
+      internalID: -6875638591303173522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1173
+        width: 67
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86e3fcf40ee0780800000000000000
+      internalID: -8714781595531319118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1173
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2db4e491481dfb0800000000000000
+      internalID: -4624770098110147855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1173
+        width: 68
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c029ec5d47ff97b0800000000000000
+      internalID: -5215177931828420415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1173
+        width: 81
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1e22dc4c496ca0800000000000000
+      internalID: -6023199133803865500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1173
+        width: 81
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838e83574c7bf2e0800000000000000
+      internalID: -2090940956197092478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1173
+        width: 77
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0fb1476c718b790800000000000000
+      internalID: -7514229837148720981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1174
+        width: 67
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb93ac8bff751a30800000000000000
+      internalID: 4185392147083795429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1173
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac1049d85c401c0800000000000000
+      internalID: -4538285312618411319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1173
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d01d9e23aec250800000000000000
+      internalID: 5966885976911434931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastSmall1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1211
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66807d68bac33470800000000000000
+      internalID: 8373259025670768236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastMed1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1211
+        width: 35
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfaff8df199f150800000000000000
+      internalID: 5906912904501460212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastLrg1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1209
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d677f3dd3d5ecf50800000000000000
+      internalID: 6903557798936147668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastSmall2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1193
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d177be924a852eb0800000000000000
+      internalID: -4745234613629652524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastMed2
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1193
+        width: 32
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eefe4a14397672e0800000000000000
+      internalID: -2128380509199335707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastLrg2
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1192
+        width: 36
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b4856d4596d1b0800000000000000
+      internalID: -5632150124332009549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastSmall3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1175
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb3a557009053e0800000000000000
+      internalID: -2066993867787092864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastMed3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1174
+        width: 35
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e73b77d36808950800000000000000
+      internalID: 6449302264953929239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlastLrg3
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1173
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad32a55ba43dda0800000000000000
+      internalID: -5921306942300235097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlast3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1058
+        width: 99
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a37cefd0958d5e0800000000000000
+      internalID: -1884658527410636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlast4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1057
+        width: 65
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee457ea3fa41e340800000000000000
+      internalID: 4891273080765501159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1058
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf14a990aef1500800000000000000
+      internalID: 369271021431290628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1058
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620479b997a00710800000000000000
+      internalID: 1657508941555565157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1058
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5093293644fb057f0800000000000000
+      internalID: -625790047755290363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1058
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e1b5a465d6fea0800000000000000
+      internalID: -5839245238585923560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1058
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fbe29bc9f4bf2d0800000000000000
+      internalID: -3243911572049969276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1058
+        width: 29
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf4b922143b3630800000000000000
+      internalID: 3907774354287819934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1058
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb448e18126ccf1c0800000000000000
+      internalID: -4468478883042671428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1058
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa465eb9ca93763f0800000000000000
+      internalID: -907693386379205462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1058
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a91dfc776cbeb50800000000000000
+      internalID: 6623605894868474443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1058
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0b7ad8a9cab0d0800000000000000
+      internalID: -3406188441095172403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1058
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c01dac06773f90800000000000000
+      internalID: -6973975701144680413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThree23
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1058
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3407b3d875f96b10800000000000000
+      internalID: 1975379810875540540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlast1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1075
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66373a6b0a7f2fec0800000000000000
+      internalID: -3534490487901424794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperTwoThreeBlast2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1075
+        width: 20
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b86d12ed3049620800000000000000
+      internalID: 2779851122579770181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThreeKiBlast
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 802
+        width: 454
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3dd84640906c40800000000000000
+      internalID: 5503557376191315624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 890
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea7ad5995369f00800000000000000
+      internalID: 1123144089893056160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 890
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a66b5b3ecc8feea0800000000000000
+      internalID: -5841295374289246560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 890
+        width: 62
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c378817d170d2a0800000000000000
+      internalID: -6714741875765986290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 890
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb2a51068515ed0800000000000000
+      internalID: -2427061554472894477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 890
+        width: 57
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e627bc89d3a4c5050800000000000000
+      internalID: 5790584849308545646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 890
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571d95f4928211f0800000000000000
+      internalID: -1075653784700643489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 890
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7bb10034af37b0800000000000000
+      internalID: -5242290915141517591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 891
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffcc8f89c317450800000000000000
+      internalID: 6084711199261130654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 709
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb9a452b42fcde0800000000000000
+      internalID: -1310788618198336046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 699
+        width: 76
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c5d7537d9504e0800000000000000
+      internalID: -2016032139458001958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 696
+        width: 74
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08eecaf261dc590800000000000000
+      internalID: -7652435797812018985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 692
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90263fb1e47915120800000000000000
+      internalID: 2400866438097363465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 710
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec43cd7bc9da2170800000000000000
+      internalID: 8154569543319244006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 710
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d53edb1d6ac490800000000000000
+      internalID: -7725242244341051185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 710
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1527715b4a52bc0800000000000000
+      internalID: -3808456812182482472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 710
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71edc47ff3f1d1b50800000000000000
+      internalID: 6565438191368461847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 710
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c5cb42806e1930800000000000000
+      internalID: 4115833222196478768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour12
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 710
+        width: 36
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6b7109be252b80800000000000000
+      internalID: -8420272556170580136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 710
+        width: 65
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45eb61238b63bc30800000000000000
+      internalID: 4373957874052490574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour15
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 709
+        width: 59
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a137ef37d2a620800000000000000
+      internalID: 2784024189130089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour16
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 710
+        width: 52
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fdb23e9872c9e0800000000000000
+      internalID: -1602585896539000215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 733
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd131f8cae761380800000000000000
+      internalID: -9000867525653488201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 734
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41ce49c988f7dd0800000000000000
+      internalID: -2486118263190448989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 710
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e2dd343eac8a7a0800000000000000
+      internalID: -6365614995843240344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFour6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a65c1ed8f827d0800000000000000
+      internalID: -2942828723644751282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 511
+        width: 176
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47737b013e6c8cd10800000000000000
+      internalID: 2146183900982359924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 511
+        width: 180
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223a2a2ab9b035e0800000000000000
+      internalID: -1931840030919478744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 519
+        width: 102
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1323cad4a1ab140800000000000000
+      internalID: 4736126879037272538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 547
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9e9c0bfff99c40800000000000000
+      internalID: 5519724272032849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 510
+        width: 124
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db5ccaeb5bda700800000000000000
+      internalID: 553298159783493008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 559
+        width: 82
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81766d477841500800000000000000
+      internalID: 366066405606889694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 563
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c5aaf5cc3b8510800000000000000
+      internalID: 1552401317570658674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 565
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa6f6779ff6baa0800000000000000
+      internalID: -6145443615499440285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 345
+        width: 130
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee97059accded610800000000000000
+      internalID: 1647997276305989344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 355
+        width: 101
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc17ee7614768d0800000000000000
+      internalID: -2853239924278047990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 108
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a44bb05f0ddafa0800000000000000
+      internalID: -5787740195219289537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 285
+        width: 89
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db0546d69c2f90d0800000000000000
+      internalID: -3413960966171980843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 282
+        width: 80
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52709da934f47f960800000000000000
+      internalID: 7635658845009282853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 282
+        width: 215
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f454332557e73190800000000000000
+      internalID: -7982657461642046218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperFourKi17
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 280
+        width: 242
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e9b81456cd35e0800000000000000
+      internalID: -1928167000950316612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ce779c3cb7ab20800000000000000
+      internalID: 3145689833167307652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 218
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec04504943e78d10800000000000000
+      internalID: 2127919252707216615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 218
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f1e7413ef43520800000000000000
+      internalID: 2681047165805129831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb756b071b429e0800000000000000
+      internalID: -1646996466057102251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 25
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd43156bf780ba0800000000000000
+      internalID: -6122503272386994845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 218
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d49eef601a9350800000000000000
+      internalID: 6024145524491606244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 218
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569185de290ba9a10800000000000000
+      internalID: 1917038736493255013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 218
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78049645b94eb7d0800000000000000
+      internalID: -2900800067058005892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 217
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafbb10a80fd6ff0800000000000000
+      internalID: -41112346051216667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 219
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2e8bbfc6e69580800000000000000
+      internalID: -8820609040279262336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lose6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 221
+        width: 85
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392e4dd3374ee960800000000000000
+      internalID: 7633116706521360702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 971
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff246a88039972e0800000000000000
+      internalID: -2127507684065005575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperThree1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 972
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2edafa4742560d0800000000000000
+      internalID: -3430295457590549777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c72d4469ccb86d458acb09534f6cd1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

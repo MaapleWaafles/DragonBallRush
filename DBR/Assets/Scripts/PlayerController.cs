@@ -19,6 +19,8 @@ public class PlayerController : MonoBehaviour
     private float maxKi;
     [SerializeField]
     private float subAmount;
+    [SerializeField]
+    private List<Projectiles> projectiles;
 
     private Animator animator;
     private Rigidbody2D rb2d;
@@ -26,15 +28,17 @@ public class PlayerController : MonoBehaviour
     private CombatManager manager;
     public PlayerController player;
     public GameObject obj;
+    private GameObject KiBlast;
 
     private bool isCharging;
     private bool isGrounded;
     private bool isPressed;
-    private bool hasEntered;
-    private bool moveLocked;
     private bool isGuarding;
     private bool isSubbing;
-    private bool onCooldown;
+    private bool isDashing;
+    private bool isShooting;
+    private bool hasEntered;
+    private bool moveLocked;
 
     private float firstPress;
     private float secondPress;
@@ -71,6 +75,7 @@ public class PlayerController : MonoBehaviour
         isPressed = false;
         isSubbing = false;
         isGuarding = false;
+        isShooting = false;
         firstPress = 0;
         secondPress = 0;
         Health = maxHealth;
@@ -107,12 +112,13 @@ public class PlayerController : MonoBehaviour
 
                     if (firstPress - secondPress < buttonInterval)
                     {
-                     Dash(KeyCode.D);
+                        Dash(KeyCode.D);
                     }
                 }
                 else
                 {
                     animator.SetBool("IsDashing", false);
+                    isDashing = false; ;
                     rb2d.velocity = new Vector2(moveSpeed, rb2d.velocity.y);
                     animator.Play("Run");
                     sprite.flipX = false;
@@ -133,13 +139,14 @@ public class PlayerController : MonoBehaviour
                 else
                 {
                     animator.SetBool("IsDashing", false);
+                    isDashing = false;
                     rb2d.velocity = new Vector2(-moveSpeed, rb2d.velocity.y);
                     animator.Play("Run");
                     sprite.flipX = true;
                 }
 
             }
-            else if (Input.GetKey(KeyCode.Y) && !moveLocked && gameObject.tag != "Temp Player" && !onCooldown)
+            else if (Input.GetKey(KeyCode.Y) && !moveLocked && gameObject.tag != "Temp Player")
             {
                 isSubbing = true;
                 animator.Play("Substitute");
@@ -155,8 +162,9 @@ public class PlayerController : MonoBehaviour
 
                 if (isGrounded && !isCharging &&
                     gameObject.tag != "Temp Player" &&
-                    !manager.isHeavyAttacking && !isGuarding && 
-                    !isSubbing && !manager.isLightAttacking)
+                    !manager.isHeavyAttacking && !isGuarding &&
+                    !isSubbing && !manager.isLightAttacking &&
+                    !isShooting)
                 {
                     animator.Play("Idle");
                     moveLocked = false;
@@ -183,6 +191,26 @@ public class PlayerController : MonoBehaviour
             else
             {
                 isGuarding = false;
+            }
+
+            // Ki Blast
+            if (Input.GetKey(KeyCode.X) && isGrounded)
+            {
+                if (isShooting == false)
+                {
+                    animator.Play("BeginBlast");
+                }
+                isShooting = true;
+
+                if (animator.GetCurrentAnimatorStateInfo(0).IsName("Blasting"))
+                {
+                    KiBlast = Instantiate(projectiles[0].gameObject, player.transform);
+                    KiBlast.GetComponent<Rigidbody2D>().AddForce(player.transform.forward * 50, ForceMode2D.Impulse);
+                }
+            }
+            else
+            {
+                isShooting = false;
             }
         }
     }
@@ -211,6 +239,7 @@ public class PlayerController : MonoBehaviour
     // Dash Handler
     void Dash(KeyCode key)
     {
+        isDashing = true;
         if (key == KeyCode.D)
         {
             animator.SetBool("IsDashing", true);
@@ -260,9 +289,20 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         ContactPoint2D contact = collision.contacts[0];
-        if (collision.contacts[0].collider.tag == "Temp Player")
+        if (contact.collider.tag == "Temp Player" && animator.GetBool("IsDashing") == true)
         {
-            collision.contacts[0].collider.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePosition;
+            contact.collider.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePosition;
+        }
+        else if (contact.collider.tag == "Temp Player" && animator.GetBool("IsDashing") == false)
+        {
+
+            contact.collider.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
+        }
+
+
+        if (contact.collider.tag == "Projectile")
+        {
+            Destroy(KiBlast);
         }
     }
 

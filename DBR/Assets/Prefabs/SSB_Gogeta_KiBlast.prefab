@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 7851967672913353779}
   - component: {fileID: 560994189832638066}
   - component: {fileID: 2088216118294981270}
+  - component: {fileID: 1899957860306529317}
+  - component: {fileID: 8915269557594930034}
   m_Layer: 0
   m_Name: SSB_Gogeta_KiBlast
   m_TagString: Untagged
@@ -119,3 +121,36 @@ CapsuleCollider2D:
   m_Offset: {x: -0.00221414, y: 0.07506683}
   m_Size: {x: 0.2475658, y: 0.16563438}
   m_Direction: 1
+--- !u!50 &1899957860306529317
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622222188693222048}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
+--- !u!114 &8915269557594930034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622222188693222048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2d49e71de739641a7c0df1b4499a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

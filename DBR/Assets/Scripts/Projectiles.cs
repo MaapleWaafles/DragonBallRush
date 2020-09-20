@@ -4,15 +4,36 @@ using UnityEngine;
 
 public class Projectiles : MonoBehaviour
 {
-    private Animator animator;
-    private Rigidbody2D rb2d;
-    public GameObject location;
-    public float damage;
+    [SerializeField]
+    private float speed;
 
-    void Awake()
+    [SerializeField]
+    private float damage;
+
+    public void StartBlasting(bool facingLeft)
     {
-        animator = GetComponent<Animator>();
-        rb2d = GetComponent<Rigidbody2D>();
-        location.transform.position = location.transform.localPosition;
+        Rigidbody2D rb2d = GetComponent<Rigidbody2D>();
+        SpriteRenderer sprite = GetComponent<SpriteRenderer>();
+
+        if (facingLeft)
+        {
+            sprite.flipX = true;
+            rb2d.velocity = new Vector2(-speed, rb2d.velocity.y);
+        }
+        else
+        { 
+            sprite.flipX = false;
+            rb2d.velocity = new Vector2(speed, rb2d.velocity.y);
+        }
+
+        Destroy(gameObject, 5f);
+    }
+
+   void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Temp Player")
+        {
+            Destroy(gameObject);
+        }
     }
 }

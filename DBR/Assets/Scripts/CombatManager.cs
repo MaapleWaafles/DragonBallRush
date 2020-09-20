@@ -5,12 +5,14 @@ using UnityEngine;
 public class CombatManager : MonoBehaviour
 {
     private const float frameTime = 1f;
-    
-    private Animator animator;
+
+    [HideInInspector]
+    public Animator animator;
     public ColliderController controller;
 
     public bool isLightAttacking;
     public bool isHeavyAttacking;
+    public bool superOneActive;
 
     private bool PressOnce;
 
@@ -23,7 +25,7 @@ public class CombatManager : MonoBehaviour
     private float lightFrame = 90.0f;
     private float maxLightFrame;
 
-    public float heavyFrame = 90.0f;
+    private float heavyFrame = 90.0f;
     private float maxHeavyFrame;
 
     void Awake()
@@ -52,6 +54,8 @@ public class CombatManager : MonoBehaviour
         }
         HeavyStringEnd();
         HeavyString();
+
+        SuperOne();
     }
 
     public void LightString()
@@ -135,7 +139,7 @@ public class CombatManager : MonoBehaviour
         {
             PressOnce = false;
         }
-    
+
     }
 
     public void HeavyStringEnd()
@@ -160,5 +164,32 @@ public class CombatManager : MonoBehaviour
         {
             heavyFrame = maxHeavyFrame;
         }
+    }
+
+    public void SuperOne()
+    {
+        if (Input.GetKey(KeyCode.O) && Input.GetKey(KeyCode.P))
+        {
+            if (superOneActive) return;
+            superOneActive = true;
+
+            if (superOneActive)
+            {
+                animator.SetBool("s1Active", true);
+            }
+        }
+    }
+
+    public void SuperOneEnd()
+    {
+        StartCoroutine(WaitForS1());
+    }
+
+    IEnumerator WaitForS1()
+    {
+        yield return new WaitForSeconds(0.2f);
+        superOneActive = false;
+        animator.SetBool("s1Active", false);
+        animator.SetBool("playerHit", false);
     }
 }

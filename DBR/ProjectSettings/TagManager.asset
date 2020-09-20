@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Temp Player
+  - LA
+  - HA
+  - S1
   layers:
   - Default
   - TransparentFX

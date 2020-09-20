@@ -19,8 +19,6 @@ public class PlayerController : MonoBehaviour
     private float maxKi;
     [SerializeField]
     private float subAmount;
-    [SerializeField]
-    private List<Projectiles> projectiles;
 
     private Animator animator;
     private Rigidbody2D rb2d;
@@ -28,7 +26,6 @@ public class PlayerController : MonoBehaviour
     private CombatManager manager;
     public PlayerController player;
     public GameObject obj;
-    private GameObject KiBlast;
 
     private bool isCharging;
     private bool isGrounded;
@@ -39,6 +36,8 @@ public class PlayerController : MonoBehaviour
     private bool isShooting;
     private bool hasEntered;
     private bool moveLocked;
+    private bool isLookingLeft;
+    private bool isInvincible;
 
     private float firstPress;
     private float secondPress;
@@ -46,6 +45,8 @@ public class PlayerController : MonoBehaviour
     private float currentKi;
     private float time;
 
+    public Transform spawnPoint;
+    public GameObject prefab;
 
     // Health and Ki Property
     public float Health
@@ -58,8 +59,6 @@ public class PlayerController : MonoBehaviour
         get { return currentKi; }
         set { currentKi = value; }
     }
-
-
 
     // Init
     void Start()
@@ -76,6 +75,7 @@ public class PlayerController : MonoBehaviour
         isSubbing = false;
         isGuarding = false;
         isShooting = false;
+        isInvincible = false;
         firstPress = 0;
         secondPress = 0;
         Health = maxHealth;
@@ -86,18 +86,19 @@ public class PlayerController : MonoBehaviour
         {
             sprite.flipX = true;
             if (obj != null)
-                obj.transform.localPosition = new Vector3(-0.4f, 0.0f, transform.localPosition.z);
+                obj.transform.localPosition = new Vector3(0.4f, 0.0f, transform.localPosition.z);
         }
         else
         {
             sprite.flipX = false;
             if (obj != null)
-                obj.transform.localPosition = new Vector3(0.4f, 0.0f, transform.localPosition.z);
+                obj.transform.localPosition = new Vector3(-0.4f, 0.0f, transform.localPosition.z);
         }
     }
 
     void FixedUpdate()
     {
+        Debug.Log(isGrounded);
         if (gameObject != null && hasEntered)
         {
             // Floor Check
@@ -105,6 +106,7 @@ public class PlayerController : MonoBehaviour
             // Movement + Dash
             if (Input.GetKey(KeyCode.D) && !moveLocked && gameObject.tag != "Temp Player")
             {
+                isLookingLeft = false;
                 if (isPressed == true)
                 {
                     firstPress = Time.time;
@@ -118,14 +120,17 @@ public class PlayerController : MonoBehaviour
                 else
                 {
                     animator.SetBool("IsDashing", false);
-                    isDashing = false; ;
+                    isDashing = false; 
                     rb2d.velocity = new Vector2(moveSpeed, rb2d.velocity.y);
                     animator.Play("Run");
                     sprite.flipX = false;
+                    if (obj != null)
+                        obj.transform.localPosition = new Vector3(-0.4f, 0.0f, transform.localPosition.z);
                 }
             }
             else if (Input.GetKey(KeyCode.A) && !moveLocked && gameObject.tag != "Temp Player")
             {
+                isLookingLeft = true;
                 if (isPressed == true)
                 {
                     firstPress = Time.time;
@@ -143,11 +148,15 @@ public class PlayerController : MonoBehaviour
                     rb2d.velocity = new Vector2(-moveSpeed, rb2d.velocity.y);
                     animator.Play("Run");
                     sprite.flipX = true;
+                    if (obj != null)
+                        obj.transform.localPosition = new Vector3(0.4f, 0.0f, transform.localPosition.z);
                 }
 
             }
             else if (Input.GetKey(KeyCode.Y) && !moveLocked && gameObject.tag != "Temp Player")
             {
+                if (isSubbing) return;
+
                 isSubbing = true;
                 animator.Play("Substitute");
                 StartCoroutine(Substituting());
@@ -164,7 +173,7 @@ public class PlayerController : MonoBehaviour
                     gameObject.tag != "Temp Player" &&
                     !manager.isHeavyAttacking && !isGuarding &&
                     !isSubbing && !manager.isLightAttacking &&
-                    !isShooting)
+                    !isShooting && !manager.superOneActive)
                 {
                     animator.Play("Idle");
                     moveLocked = false;
@@ -193,24 +202,19 @@ public class PlayerController : MonoBehaviour
                 isGuarding = false;
             }
 
-            // Ki Blast
+            //Ki Blast
             if (Input.GetKey(KeyCode.X) && isGrounded)
             {
-                if (isShooting == false)
-                {
-                    animator.Play("BeginBlast");
-                }
+                if (isShooting) return;
+
+                animator.Play("BeginBlast");
                 isShooting = true;
 
-                if (animator.GetCurrentAnimatorStateInfo(0).IsName("Blasting"))
-                {
-                    KiBlast = Instantiate(projectiles[0].gameObject, player.transform);
-                    KiBlast.GetComponent<Rigidbody2D>().AddForce(player.transform.forward * 50, ForceMode2D.Impulse);
-                }
-            }
-            else
-            {
-                isShooting = false;
+                GameObject blast = Instantiate(prefab);
+                blast.GetComponent<Projectiles>().StartBlasting(isLookingLeft);
+                blast.transform.position = spawnPoint.transform.position;
+
+                Invoke("ResetBlast", 1f);
             }
         }
     }
@@ -218,7 +222,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         // Ki Charge
-        if (Input.GetKey(KeyCode.Z) && isGrounded)
+        if (Input.GetKey(KeyCode.Z) && isGrounded && gameObject.tag != "Temp Player")
         {
             moveLocked = true;
             if (isCharging == false)
@@ -286,7 +290,7 @@ public class PlayerController : MonoBehaviour
     }
 
     //unsure if this halts his speed entirely
-    private void OnCollisionEnter2D(Collision2D collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
         ContactPoint2D contact = collision.contacts[0];
         if (contact.collider.tag == "Temp Player" && animator.GetBool("IsDashing") == true)
@@ -298,20 +302,20 @@ public class PlayerController : MonoBehaviour
 
             contact.collider.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
         }
+    }
 
-
-        if (contact.collider.tag == "Projectile")
-        {
-            Destroy(KiBlast);
-        }
+    void ResetBlast()
+    {
+        isShooting = false;
+        animator.Play("Idle");
     }
 
     IEnumerator Substituting()
     {
-        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length - 0.195f);
-        animator.Play("Idle");
+        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
         if (isSubbing)
             gameObject.transform.position = new Vector3(obj.transform.position.x, obj.transform.position.y, -0.01f);
         isSubbing = false;
     }
+
 }

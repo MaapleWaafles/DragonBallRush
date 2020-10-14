@@ -34,10 +34,11 @@ public class PlayerController : MonoBehaviour
     public GameObject obj;
 
     // Checks used for specific calls
+    [HideInInspector]
+    public  bool isGuarding;
     private bool isCharging;
     private bool isGrounded;
     private bool isPressed;
-    private bool isGuarding;
     private bool isSubbing;
     private bool isDashing;
     private bool isShooting;
@@ -70,7 +71,7 @@ public class PlayerController : MonoBehaviour
         set { currentKi = value; }
     }
 
-    void Start()
+    private void Start()
     {   
         // Intialization
         animator = GetComponent<Animator>();
@@ -106,7 +107,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void FixedUpdate()
+    private void FixedUpdate()
     {
         // If We have a player and Entry Animation has Played
         if (gameObject != null && hasEntered)
@@ -232,7 +233,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void Update()
+    private void Update()
     {
         // Manges Ki Charge: Charges the Energy Bar up
         if (Input.GetKey(KeyCode.Z) && isGrounded && gameObject.tag != "Temp Player")
@@ -267,7 +268,6 @@ public class PlayerController : MonoBehaviour
             StartCoroutine(Substituting());
         }
 
-
         // Manages Guarding: While guard is up player cannot take any damage from Light/Heavy combos. Damage is reduced from supers.
         if (Input.GetKey(KeyCode.G) && !moveLocked && gameObject.tag != "Temp Player")
         {
@@ -281,7 +281,7 @@ public class PlayerController : MonoBehaviour
     }
 
     // Dashes the Player forward depending on direction
-    void Dash(KeyCode key)
+    protected void Dash(KeyCode key)
     {
         isDashing = true;
         
@@ -304,16 +304,24 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // Manages Damage Reduction on Super Attack
+    public void Guard(int damage, int reduction, PlayerController plyr)
+    {
+        // Grabs the smallest value of the two
+        int reduce = Mathf.Min(damage, reduction);
+        // Takes the reduced damaged
+        plyr.Health -= reduce; 
+    }
 
     // Plays the Entry Animation
-    void EnablePlayer()
+    public void EnablePlayer()
     {
         hasEntered = true;
         animator.SetTrigger("HasEntered");
     }
 
     // Checks if the player is on the ground or not
-    void JumpCheck(Transform player)
+    protected void JumpCheck(Transform player)
     {
         // Shoots an invisble Line from the player to the ground and if we hit the floor 
         if (Physics2D.Linecast(player.transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground")) && gameObject.tag != "Temp Player")
@@ -339,7 +347,7 @@ public class PlayerController : MonoBehaviour
 
 
     // Swaps back to the Idle State when Shooting Is Finished
-    void ResetBlast()
+    protected void ResetBlast()
     {
         isShooting = false;
         animator.Play("Idle");
@@ -356,8 +364,7 @@ public class PlayerController : MonoBehaviour
         isSubbing = false;
     }
 
-
-    void OnCollisionEnter2D(Collision2D collision)
+    protected void OnCollisionEnter2D(Collision2D collision)
     {
         ContactPoint2D contact = collision.contacts[0];
 

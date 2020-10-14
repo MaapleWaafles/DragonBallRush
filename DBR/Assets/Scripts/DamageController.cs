@@ -27,12 +27,16 @@ public class DamageController : MonoBehaviour
         // If the Light Collider hits the opposing Player
         if (gameObject.tag == "LA" && collision.tag == "Temp Player")
         {
-            player.Health -= lightAttackDmg;
+            // If we aren't guarding, take damage
+            if (!player.isGuarding)
+                player.Health -= lightAttackDmg;
         }
         // Or Else if the Heavy Collider hits the opposing Player
         else if (gameObject.tag == "HA" && collision.tag == "Temp Player")
         {
-            player.Health -= heavyAttackDmg;
+            // If we aren't guarding, take damage
+            if (!player.isGuarding)
+                player.Health -= heavyAttackDmg;
         }
         // Or Else if the Super Attack one hits the opposing Player
         else if (gameObject.tag == "S1" && collision.tag == "Temp Player")
@@ -41,7 +45,11 @@ public class DamageController : MonoBehaviour
             if (anim != null)
                 anim.SetBool("playerHit", true);
 
-            player.Health -= SuperOneDmg;
+            // Reduces Damage if guarding 
+            if (player.isGuarding)
+                player.Guard(SuperOneDmg, 25, player);
+            else
+                player.Health -= SuperOneDmg;
         }
     }
 }
